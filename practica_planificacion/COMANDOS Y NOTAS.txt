@@ -1,0 +1,6 @@
+Comandos:
+./plan ~/Descargas/domainbbc.pddl ~/Descargas/prob-1.pddl ~/Descargas/resultado.txt
+Empezar tema:
+-La empresa tiene los temas asignados
+-Los temas no tienen aspectos
+-Tampoco niveles
