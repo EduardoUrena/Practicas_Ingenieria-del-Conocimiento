@@ -1,0 +1,3 @@
+He decidido hacer por un lado un fichero de reglas donde las reglas son genéricas y se acaba llenando la jarra de capacidad 4 con 2 litros en x pasos al ejecutarse las reglas sin ningún orden específico, y por otro lado otro fichero donde las reglas llenan la jarra de 4 con 2 litros en los minimos pasos posibles.
+
+El fichero de hechos es común para los dos ficheros de reglas, y las respuestas a las dos preguntas del enunciado se encuentran como comentario en los dos ficheros de reglas.
